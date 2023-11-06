@@ -2,4 +2,4 @@
 
 # Инструменты
 - [Camunda](https://camunda.com/download/modeler/)
-- [github] (https://github.com/)
+- [github](https://github.com/)
