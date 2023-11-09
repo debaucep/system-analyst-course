@@ -6,8 +6,10 @@
 - [draw.io](https://app.diagrams.net)
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop)
 - [DBeaver](https://dbeaver.io/)
-- Postman
-- Insomnia
-- Plantuml
-- Visual Studio Code
-- Notepad++
+- [Postman](https://www.postman.com/)
+- [Insomnia](https://insomnia.rest/download)
+- [Plantuml](https://plantuml.com/ru/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Notepad++](https://notepad-plus-plus.org/)
+- [Figma](https://www.figma.com)
+- [Miro](https://miro.com)
