@@ -13,3 +13,4 @@
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Figma](https://www.figma.com)
 - [Miro](https://miro.com)
+- [Swagger](https://app.swaggerhub.com/home)
