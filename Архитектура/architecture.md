@@ -18,6 +18,7 @@
 ## Статьи
 - [Как описать архитектуру продукта по нотации C4](https://habr.com/ru/articles/565658/)
 -[Что такое Serverless Архитектура и в чём её преимущества?](https://mkdev.me/ru/posts/chto-takoe-serverless-arhitektura-i-v-chyom-eyo-preimuschestva)
+[Структуры данных](https://testengineer.ru/strukturi-dannih-gaid/)
 -[Сервис-ориентированная архитектура (SOA)](https://habr.com/ru/companies/vk/articles/342526/)
 - [Паттерны микросервисов eng](https://microservices.io/patterns/microservices.html)
 - [Микросервисы и микросервисная архитектура](https://www.atlassian.com/ru/microservices)
@@ -27,4 +28,3 @@
 - [Мартин Фовлер расплата за использование микросервисов](https://martinfowler.com/articles/microservice-trade-offs.html)
 - [научная статья "показатели производительности микросервисных систем"](https://cyberleninka.ru/article/n/pokazateli-proizvoditelnosti-mikroservisnyh-sistem/viewer)
 - [Антипаттерны IBM eng](https://www.ibm.com/fr-fr/topics/microservices)
-- [Swagger](https://app.swaggerhub.com/home)
