@@ -4,7 +4,7 @@
 ## Видео
 - [Введение в архитектуру микросервисов, Дмитрий Голых](https://www.youtube.com/watch?v=jL6DQzrh4I0)
 - [Научно-техническая конференция МТС ч.1](https://www.youtube.com/watch?v=ZkQmpC9zHCg)
-- [Научно-техническая конференция МТС ч.2](https://www.youtube.com/watch?v=DafuYxGiJNU
+- [Научно-техническая конференция МТС ч.2](https://www.youtube.com/watch?v=DafuYxGiJNU)
 - [Основы построения highload-систем: 7 приёмов масштабирования баз данных](https://www.youtube.com/watch?v=dpttAQfbC94&list=PLQGve2f3j-H1LHjDybCsQEP9VO8E-Sauw&index=3)
 - [Мастер-класс: моделирование архитектуры приложения на языке Archimate](https://www.youtube.com/watch?v=_CJI3aRSHGw)
 - [Проектирование архитектуры сервиса доставки еды](https://www.youtube.com/watch?v=mr3pywHOz7I)
